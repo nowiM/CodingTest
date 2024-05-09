@@ -1,6 +1,6 @@
 const fs = require("fs")
 
-//const readFileSyncAdress = '/din/stdin';
+//const readFileSyncAdress = '/dev/stdin';
 
 const readFileSyncAddress = 'C:/Webcoding/input.txt';
 
