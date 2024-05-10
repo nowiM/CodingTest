@@ -1,3 +1,7 @@
+const fs = require("fs")
+
+//const readFileSyncAdress = '/dev/stdin';
+
 const readFileSyncAddress = 'C:/Webcoding/input.txt';
 
 const input = fs.readFileSync(readFileSyncAddress).toString().trim().split('\n');
